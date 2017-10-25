@@ -1,2 +1,2 @@
-# 1174038-SejarahKernel
-Tentang Kernel
+# Materi Kernel
+A. Sejarah Kernel
